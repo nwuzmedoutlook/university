@@ -43,6 +43,7 @@
 | 36 |  西北工业大学课程攻略共享计划 | https://github.com/BetterWorld-Liuser/NWPU--icicles  |
 | 37  | 西南大学软件工程专业生存指南  |  https://github.com/SambacFeng/SWU-SE-HELPER |
 
-
-
+更多精彩，
+请关注[DAC导航](https://nwuzmed.ga/)
+DAC导航-让校园生活更加精彩！
 
