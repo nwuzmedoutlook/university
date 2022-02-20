@@ -5,7 +5,7 @@
 
 | 序号 | 学校 | 链接 |
 | --- | --- | ---                          |
-|1  | 清华大学计算机系课程攻略 | (https://github.com/Salensoft/thu-cst-cracker)<br>https://github.com/PKUanonym/REKCARC-TSC-UHT<br>https://rekcarc-tsc-uht.readthedocs.io/en/latest/|
+|1  | 清华大学计算机系课程攻略 | [](https://github.com/Salensoft/thu-cst-cracker)<br>https://github.com/PKUanonym/REKCARC-TSC-UHT<br>https://rekcarc-tsc-uht.readthedocs.io/en/latest/|
 | 2 | 北京大学课程资源 |  https://github.com/lib-pku/libpku<br>https://lib-pku.github.io/<br>https://github.com/tongtzeho/PKUCourse           |
 | 3 | 中国科学技术大学课程资源 | https://github.com/USTC-Resource/USTC-Course<br>https://github.com/15172658790/Blog<br>https://github.com/HuangCongQing/UCAS_Course_2019<br>https://ustc-resource.github.io/USTC-Course/<br>https://github.com/ustcwpz/USTC-CS-Courses-Resource<br>https://github.com/windwangustc/USTC-CS-Coureses<br>https://github.com/WangJianing-BGH/USTC-Course_Copy<br>中国科大网络资源一览<br>https://github.com/zzh1996/USTC-Network-Resources|
 | 4 |浙江大学课程共享计划  | https://github.com/QSCTech/zju-icicles<br>https://qsctech.github.io/zju-icicles/|
