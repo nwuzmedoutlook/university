@@ -42,6 +42,7 @@
 |35  | 南昌航空大学工程数学2，课件及教学资源 | https://github.com/nyliubin/NCHU-2 |
 | 36 |  西北工业大学课程攻略共享计划 | https://github.com/BetterWorld-Liuser/NWPU--icicles  |
 | 37  | 西南大学软件工程专业生存指南  |  https://github.com/SambacFeng/SWU-SE-HELPER |
+| 38 | 华东师范大学《编程思维与实践》课程主站 | https://github.com/NieeiM/wop-ecnu-pub/blob/master/HOWTO.md |
 
 ## 更多精彩，请关注[DAC导航](https://nwuzmed.ga/)，让校园生活更加精彩！<br>
 
