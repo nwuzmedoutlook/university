@@ -1,4 +1,4 @@
-# 📚各大高校课程资源汇总，在Github上大学 <a href="https://qq-group.cf" target="_blank" style="color:#1d953f" >&emsp;&emsp;&emsp;&emsp;💡加入组织</a>
+# 📚各大高校课程资源汇总，在Github上大学<a href="https://qq-group.cf" target="_blank" style="color:#1d953f" >&emsp;&emsp;&emsp;&emsp;💡加入组织</a>
 
 😎欢迎大家继续补充其他高校的课程资源链接，推上<b><a href="https://github.com/nwuzmedoutlook/university/issues" target="_blank">Issues</a></b>即可。<br>😆取之有度，用之有道；知识共享，纸张节约；帮助他人，提升自己。
 
@@ -44,5 +44,5 @@
 | 37  | 西南大学软件工程专业生存指南  |  https://github.com/SambacFeng/SWU-SE-HELPER |
 | 38 | 华东师范大学《编程思维与实践》课程主站 | https://github.com/NieeiM/wop-ecnu-pub/blob/master/HOWTO.md |
 
-## 更多精彩，请关注[DAC导航](https://nwuzmed.ga/)，让校园生活更加精彩！<br>
+## 更多精彩，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
