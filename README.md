@@ -1,6 +1,6 @@
 # 📚各大高校课程资源汇总，在Github上大学 <a href="https://qq-group.cf" target="_blank" style="color:#1d953f" >&emsp;&emsp;&emsp;&emsp;💡加入组织</a>
 
-😎欢迎大家继续补充其他高校的课程资源链接，推上[Issues](https://github.com/nwuzmedoutlook/university/issues)即可。<br>😆取之有度，用之有道；知识共享，纸张节约；帮助他人，提升自己。
+😎欢迎大家继续补充其他高校的课程资源链接，推上<b><a href="https://github.com/nwuzmedoutlook/university/issues" target="_blank">Issues</a></b>即可。<br>😆取之有度，用之有道；知识共享，纸张节约；帮助他人，提升自己。
 
 
 | 序号 | 学校 | 链接 |
