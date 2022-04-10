@@ -44,5 +44,5 @@
 | 37  | 西南大学软件工程专业生存指南  |  https://github.com/SambacFeng/SWU-SE-HELPER |
 | 38 | 华东师范大学《编程思维与实践》课程主站 | https://github.com/NieeiM/wop-ecnu-pub/blob/master/HOWTO.md |
 
-## 更多精彩，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
+## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
