@@ -10,7 +10,7 @@
 | 3 | 中国科学技术大学课程资源 | https://github.com/USTC-Resource/USTC-Course<br>https://github.com/15172658790/Blog<br>https://github.com/HuangCongQing/UCAS_Course_2019<br>https://ustc-resource.github.io/USTC-Course/<br>https://github.com/ustcwpz/USTC-CS-Courses-Resource<br>https://github.com/windwangustc/USTC-CS-Coureses<br>https://github.com/WangJianing-BGH/USTC-Course_Copy<br>中国科大网络资源一览<br>https://github.com/zzh1996/USTC-Network-Resources|
 | 4 |浙江大学课程共享计划  | https://github.com/QSCTech/zju-icicles<br>https://qsctech.github.io/zju-icicles/|
 | 5 | 上海交通大学课程分享 | https://github.com/c-hj/SJTU-Courses |
-| 6 |  东南大学课程共享计划  |  https://github.com/zjdx1998/seucourseshare<br>https://github.com/ChangWinde/SouthEastUniversity<br>东南大学优秀开源项目整合<br>https://github.com/seuite/awesome-seu  |
+| 6 |  东南大学课程共享计划  |  https://github.com/zjdx1998/seucourseshare<br>https://github.com/ChangWinde/SouthEastUniversity<br>https://github.com/npubird/KnowledgeGraphCourse<br>东南大学优秀开源项目整合<br>https://github.com/seuite/awesome-seu  |
 | 7 | 中山大学课程资料分享 | https://github.com/sysuexam/SYSU-Exam |
 | 8  |  南京大学课程复习资料 | https://github.com/idealclover/NJU-Review-Materials<br>南哪指南<br>https://nju.today/  |
 | 9  | 郑州大学课程资料共享计划  |  https://github.com/CooperNiu/ZZU-Courses-Resource |
@@ -43,6 +43,7 @@
 | 36 |  西北工业大学课程攻略共享计划 | https://github.com/BetterWorld-Liuser/NWPU--icicles  |
 | 37  | 西南大学软件工程专业生存指南  |  https://github.com/SambacFeng/SWU-SE-HELPER |
 | 38 | 华东师范大学《编程思维与实践》课程主站 | https://github.com/NieeiM/wop-ecnu-pub/blob/master/HOWTO.md |
+| 38 | 温州大学-机器学习课程 | https://github.com/fengdu78/WZU-machine-learning-course |
 
 ## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
