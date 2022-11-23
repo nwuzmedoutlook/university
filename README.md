@@ -5,19 +5,19 @@
 
 | 序号 | 学校 | 链接 |
 | :---: | --- | --- |
-| 1 | 清华大学计算机系课程攻略 | https://github.com/Salensoft/thu-cst-cracker<br>https://github.com/PKUanonym/REKCARC-TSC-UHT<br>https://rekcarc-tsc-uht.readthedocs.io/en/latest/|
-| 2 | 北京大学课程资源 |  https://github.com/lib-pku/libpku<br>https://lib-pku.github.io/<br>https://github.com/tongtzeho/PKUCourse           |
-| 3 | 中国科学技术大学课程资源 | https://github.com/USTC-Resource/USTC-Course<br>https://github.com/15172658790/Blog<br>https://github.com/HuangCongQing/UCAS_Course_2019<br>https://ustc-resource.github.io/USTC-Course/<br>https://github.com/ustcwpz/USTC-CS-Courses-Resource<br>https://github.com/windwangustc/USTC-CS-Coureses<br>https://github.com/WangJianing-BGH/USTC-Course_Copy<br>https://github.com/WYGNG?tab=repositories<br>软件学院研究生部分课程<br>https://github.com/outman123/USTC-SSE-Courses<br>中国科大网络资源一览<br>https://github.com/zzh1996/USTC-Network-Resources|
+| 1 | 清华大学 | 计算机系课程攻略<br>https://github.com/Salensoft/thu-cst-cracker<br>https://github.com/PKUanonym/REKCARC-TSC-UHT<br>https://rekcarc-tsc-uht.readthedocs.io/en/latest/|
+| 2 | 北京大学 | 课程资源<br>https://github.com/lib-pku/libpku<br>https://lib-pku.github.io/<br>https://github.com/tongtzeho/PKUCourse           |
+| 3 | 中国科学技术大学 | 课程资源<br>https://github.com/USTC-Resource/USTC-Course<br>https://github.com/15172658790/Blog<br>https://github.com/HuangCongQing/UCAS_Course_2019<br>https://ustc-resource.github.io/USTC-Course/<br>https://github.com/ustcwpz/USTC-CS-Courses-Resource<br>https://github.com/windwangustc/USTC-CS-Coureses<br>https://github.com/WangJianing-BGH/USTC-Course_Copy<br>https://github.com/WYGNG?tab=repositories<br>软件学院研究生部分课程<br>https://github.com/outman123/USTC-SSE-Courses<br>中国科大网络资源一览<br>https://github.com/zzh1996/USTC-Network-Resources|
 | 4 | 浙江大学课程共享计划  | https://github.com/QSCTech/zju-icicles<br>https://qsctech.github.io/zju-icicles/<br>https://github.com/zhanghai/archexp<br>软件工程专业本科部分课程复习笔记<br>https://github.com/toooooodo/ZJU-SE-Notes<br>本科生的计算机、地理信息科学知识库<br>https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes<br>电子科学与技术专业部分课程<br>https://github.com/hhubibi/zju-isee<br>信电学院2022信号与系统课程资料<br>https://github.com/VipaiLab/Signals-and-Systems-course |
 | 5 | 上海交通大学课程分享 | https://github.com/c-hj/SJTU-Courses |
 | 6 | 东南大学课程共享计划  |  https://github.com/zjdx1998/seucourseshare<br>https://github.com/ChangWinde/SouthEastUniversity<br>https://github.com/npubird/KnowledgeGraphCourse<br>https://github.com/npubird/softwaretesting<br>东南大学优秀开源项目整合<br>https://github.com/seuite/awesome-seu  |
 | 7 | 中山大学 | 课程资料分享<br>https://github.com/sysuexam/SYSU-Exam <br> 数据科学与计算机学院计算机科学专业的课程资料<br> https://github.com/ysyisyourbrother/SYSU_Notebook|
 | 8 | 南京大学课程复习资料 | https://github.com/idealclover/NJU-Review-Materials<br>https://github.com/ZhangYikaii/NJUCS-Course-Material<br>南哪指南<br>https://nju.today/  |
 | 9 | 郑州大学课程资料共享计划  |  https://github.com/CooperNiu/ZZU-Courses-Resource |
-| 10 | 广东工业大学计算机学院课程攻略  |  https://github.com/brenner8023/gdut-course<br>https://brenner8023.github.io/gdut-course/  |
+| 10 | 广东工业大学 | 计算机学院课程攻略<br>https://github.com/brenner8023/gdut-course<br>https://brenner8023.github.io/gdut-course/  |
 | 11 | 华南师范大学计算机学院 - 0xFFFF CS Wiki |  https://www.yuque.com/0xffff.one/cs-learning  |
 | 12 | 山东科技大学课程资源共享计划 |  https://github.com/deepwzh/sdust-examination-materials |
-| 13 | 北京化工大学课程资料整理开源项目 | https://github.com/BUCTBASE/BUCTBASE  |
+| 13 | 北京化工大学 | 课程资料整理开源项目<br>https://github.com/BUCTBASE/BUCTBASE  |
 | 14 | 复旦大学课程资源 |  https://github.com/openFudan/fudan-coursera |
 | 15 | 深圳大学CS本科 课程资源共享  | https://github.com/Alex-Shen1121/SZU_Learning_Resource<br>https://github.com/szm007/SZU_Learning_resource_sharing  |
 | 16 | 武汉大学课程资料整理-WHU课代表计划 |  https://github.com/openwhu/OpenWHU |
