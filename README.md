@@ -58,7 +58,7 @@
 | 51 | 河海大学计算机类课程资料整理 | https://github.com/Neo-LogOut/lib-cs-hhu |
 | 52 | 兰州大学高等计算机系统结构课程 | https://github.com/kinggolzu/LZU-Computer-Architecture<br>https://kinggolzu.github.io/LZU-Computer-Architecture/ |
 | 53 | 大连海事大学 | 信息学院课程攻略<br>https://github.com/DmuFreeCoding/DMU-cs-course |
-| 54 | 北京理工大学 | 计算机学院课程项目资料<br>https://github.com/spencerwooo/BITCS-Coursework |
+| 54 | 北京理工大学 | 计算机学院课程项目资料<br>https://github.com/spencerwooo/BITCS-Coursework<br>https://drive.swo.moe/Lecture%20and%20Coursework%20CS%20(BIT)/ |
 
 ## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
