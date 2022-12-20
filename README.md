@@ -1,6 +1,7 @@
 # 📚各大高校课程资源汇总，在Github上大学&emsp;&emsp;&emsp;&emsp;<a href="https://qq-group.cf" target="_blank" style="color:#1d953f" >💡加入组织</a>
 
-😎欢迎大家继续补充其他高校的课程资源链接，推上<b><a href="https://github.com/nwuzmedoutlook/university/issues" target="_blank">Issues</a></b>即可。<br>😆取之有度，用之有道；知识共享，纸张节约；帮助他人，提升自己。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/university" target="_blank" style="color:#1d953f front-size:60px" >⭐Give me a star!</a>
+## 😎欢迎大家继续补充其他高校的课程资源链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/university/pulls" target="_blank">🔨Pull Requests</a>
+😆取之有度，用之有道；知识共享，纸张节约；帮助他人，提升自己。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/university" target="_blank" style="color:#1d953f front-size:60px" >⭐Give me a star!</a>
 
 
 | 序号 | 学校名称 | 学校类型 | 课程资源链接 |
