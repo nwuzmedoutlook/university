@@ -44,7 +44,7 @@
 | 36 | 西北工业大学 | 世界一流大学A类<br>985、211 | 课程攻略共享计划 <br> https://github.com/BetterWorld-Liuser/NWPU--icicles  |
 | 37 | 西南大学 | 世界一流学科<br>211 | 软件工程专业生存指南 <br> https://github.com/SambacFeng/SWU-SE-HELPER |
 | 38 | 华东师范大学 | 世界一流大学A类<br>985、211 | 《编程思维与实践》课程主站 <br> https://github.com/NieeiM/wop-ecnu-pub/blob/master/HOWTO.md |
-| 39 | 温州大学 | Top | 机器学习课程 <br> https://github.com/fengdu78/WZU-machine-learning-course |
+| 39 | 温州大学 |   | 机器学习课程 <br> https://github.com/fengdu78/WZU-machine-learning-course |
 | 40 | 中国科学院大学 | 世界一流学科 | 2019-2020课程（秋季，春季，夏季） <br> https://github.com/HuangCongQing/UCAS_Course_2019 <br> https://github.com/Ming-Lian/Machine-Learning-Course-in-UCAS <br> https://github.com/univeryinli/ucas-ppt <br> 研一课程教材课件共享项目 <br> https://github.com/txz741/UCAS-Course <br> 运筹学通论课程相关资料 <br> https://github.com/yimingli1998/UCAS_Operational_Research <br> 矩阵分析与应用课程相关资料 <br> https://github.com/yimingli1998/UCAS_Matrix <br> 随机过程讲义及习题解答 <br> https://github.com/yimingli1998/UCAS_StochasticProcess <br> 《概率方法与随机图》课程作业与教材 <br> https://github.com/jindongwang/ProbabilityHomework |
 | 41 | 天津医科大学 |   | 生物医学工程与技术学院，《Perl语言编程》课程资料 <br> https://github.com/fengdu78/WZU-machine-learning-course |
 | 42 | 北京林业大学 | 世界一流学科<br>211 | 信息学院课程攻略 <br> https://github.com/bljx/BFU-leaf |
