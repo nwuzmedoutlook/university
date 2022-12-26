@@ -8,30 +8,30 @@
 | :---: | :---: | :---: | --- |
 | 1 | 清华大学 | Top | 计算机系课程攻略 <br> https://github.com/Salensoft/thu-cst-cracker <br> https://github.com/PKUanonym/REKCARC-TSC-UHT <br> https://rekcarc-tsc-uht.readthedocs.io/en/latest/ |
 | 2 | 北京大学 | Top | 课程资源 <br> https://github.com/lib-pku/libpku<br>https://lib-pku.github.io/ <br> 计算机课程大作业 <br> https://github.com/tongtzeho/PKUCourse <br> ics课程资料 <br> https://github.com/lihy11/pku-ics <br> 程序设计实习公开课 （C++版）<br> https://github.com/lishuwei0424/ProgrammingAndAlgorithm <br> 裘宗燕(退休) [2000年以来讲授过的课程](https://www.math.pku.edu.cn/teachers/qiuzy/courses.htm) |
-| 3 | 中国科学技术大学 | Top | 课程资源 <br> https://github.com/USTC-Resource/USTC-Course <br> https://ustc-resource.github.io/USTC-Course/ <br> https://github.com/WangJianing-BGH/USTC-Course_Copy <br> 计算机学院课程资源 <br> https://github.com/15172658790/Blog <br> https://github.com/ustcwpz/USTC-CS-Courses-Resource <br> 2019-2020课程（秋季，春季，夏季） <br> https://github.com/HuangCongQing/UCAS_Course_2019 <br> 计算机学院课程资源2022 <br> https://github.com/windwangustc/USTC-CS-Coureses <br> https://github.com/WYGNG?tab=repositories <br> 软件学院研究生部分课程 <br> https://github.com/outman123/USTC-SSE-Courses <br> 中国科大网络资源一览 <br> https://github.com/zzh1996/USTC-Network-Resources |
-| 4 | 浙江大学 | Top | 课程攻略共享计划 <br> https://github.com/QSCTech/zju-icicles <br> https://qsctech.github.io/zju-icicles/ <br> https://github.com/zhanghai/archexp <br> 软件工程专业本科部分课程复习笔记 <br> https://github.com/toooooodo/ZJU-SE-Notes <br> 本科生的计算机、地理信息科学知识库 <br> https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes <br> 电子科学与技术专业部分课程 <br> https://github.com/hhubibi/zju-isee <br> 信电学院2022信号与系统课程资料 <br> https://github.com/VipaiLab/Signals-and-Systems-course <br> 光电信息科学与工程学院-光电信息科学与工程（OPT）课程共享计划 <br> https://github.com/yinze00/ZJU-OPT <br> PAT纯C语言题解 <br> https://github.com/oliverlew/PAT |
-| 5 | 上海交通大学 | Top | 课程分享 <br> https://github.com/c-hj/SJTU-Courses <br> 软件学院课程计算机系统工程(SE124)笔记 <br> https://github.com/Kami-code/SE124-CSE-2021-Notes |
-| 6 | 东南大学 | Top | 课程共享计划 <br> https://github.com/zjdx1998/seucourseshare <br> https://github.com/ChangWinde/SouthEastUniversity <br> https://github.com/npubird/KnowledgeGraphCourse <br> https://github.com/npubird/softwaretesting <br> 东南大学优秀开源项目整合 <br> https://github.com/seuite/awesome-seu  |
-| 7 | 中山大学 | Top | 课程资料分享 <br> https://github.com/sysuexam/SYSU-Exam <br> 数据科学与计算机学院计算机科学专业的课程资料 <br> https://github.com/ysyisyourbrother/SYSU_Notebook |
-| 8 | 南京大学 | Top | 课程复习资料 <br> https://github.com/idealclover/NJU-Review-Materials <br> https://github.com/ZhangYikaii/NJUCS-Course-Material <br> 计算机科学与技术845考研公共课和专业课资料 <br> https://github.com/JackeyLea/NJUCS <br> 《数据新闻》课程 <br> https://github.com/data-journalism/dj2016 <br> 计算机系数理逻辑课程资料 <br> https://github.com/sleepycoke/Mathematical_Logic_NJUCS <br> 南哪指南 <br> https://nju.today/  |
-| 9 | 郑州大学 | Top | 课程资料共享计划 <br> https://github.com/CooperNiu/ZZU-Courses-Resource |
-| 10 | 广东工业大学 | Top | 计算机学院课程攻略 <br> https://github.com/brenner8023/gdut-course <br> https://brenner8023.github.io/gdut-course/  |
-| 11 | 华南师范大学 | Top | 计算机学院 - 0xFFFF CS Wiki <br> https://www.yuque.com/0xffff.one/cs-learning  |
-| 12 | 山东科技大学 | Top | 课程资源共享计划 <br> https://github.com/deepwzh/sdust-examination-materials |
-| 13 | 北京化工大学 | Top | 课程资料整理开源项目 <br> https://github.com/BUCTBASE/BUCTBASE  |
-| 14 | 复旦大学 | Top | 课程资源 <br> https://github.com/openFudan/fudan-coursera |
-| 15 | 深圳大学 | Top | CS本科 课程资源共享 <br> https://github.com/Alex-Shen1121/SZU_Learning_Resource <br> https://github.com/szm007/SZU_Learning_resource_sharing  |
-| 16 | 武汉大学 | Top | 课程资料整理-WHU课代表计划 <br> https://github.com/openwhu/OpenWHU |
-| 17 | 哈尔滨工业大学 | Top | 计算机学科课程资料 <br> https://github.com/Aidenwuyin/HIT-Courses <br> https://github.com/ChestnutQiang/HIT-Computer-Courses <br> （深圳）计算机科学与技术研究生课程 <br> https://github.com/LiYing0/CS_Gra-HITsz <br> 某大佬整理的计算机课程资料 <br> https://github.com/hahaok/HIT-Computer-Courses <br> 计算机系统课程（2021春） <br> https://github.com/cuttingedge191/HITCS-ICS_CSAPP <br> 课程资源分享 <br> https://github.com/richardodliu/HIT-Courses <br> 计算学部课程历年试题及学习资料 <br> https://github.com/yink12138/HITCS_Papers |
-| 18 | 南京邮电大学 | Top | 通识课程历年资料 <br> https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams <br> https://njuptfreeexams.github.io/ <br> 南京邮电大学黄页 <br> https://github.com/Wonz5130/NJUPT-Yellow-Page |
-| 19 | 南京航空航天大学 | Top | 计算机考研 专业课资料 和 信息汇总 <br> https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan |
-| 20 | 西北大学| Top | 课程资源共享 <br> https://resour.nwu.icu/ |
-| 21 | 同济大学 | Top | 课程资源共享仓库 <br> https://github.com/TJ-CSCCG/TJCS-Course <br> 软件学院软件工程课堂笔记 <br> https://github.com/MountPOTATO/Software-Engineering-Notes |
-| 22 | 中国矿业大学 | Top | 课程资源 <br> https://github.com/LetheSec/CUMT-IS-Course-Resources |
-| 23 | 山东财经大学 | Top | 课程资源 <br> https://github.com/SDUFE-Resource/SDUFE-Course |
-| 24 | 山东大学 | Top | 软件学院学习资料共享 <br> https://github.com/yingzhou20/sdu-sc-resources |
-| 25 | 电子科技大学 | Top | 课程资料共享平台 <br> https://github.com/Xovee/uestc-course |
-| 26 | 北京航空航天大学 | Top | 课程作业资料共享计划 <br> https://github.com/TheBloodthirster/BUAA_Course_Sharing <br> https://github.com/Muyiyunzi/ShuLiTongJi_BUAA |
+| 3 | 中国科学技术大学 | 世界一流大学A类<br>985 | 课程资源 <br> https://github.com/USTC-Resource/USTC-Course <br> https://ustc-resource.github.io/USTC-Course/ <br> https://github.com/WangJianing-BGH/USTC-Course_Copy <br> 计算机学院课程资源 <br> https://github.com/15172658790/Blog <br> https://github.com/ustcwpz/USTC-CS-Courses-Resource <br> 2019-2020课程（秋季，春季，夏季） <br> https://github.com/HuangCongQing/UCAS_Course_2019 <br> 计算机学院课程资源2022 <br> https://github.com/windwangustc/USTC-CS-Coureses <br> https://github.com/WYGNG?tab=repositories <br> 软件学院研究生部分课程 <br> https://github.com/outman123/USTC-SSE-Courses <br> 中国科大网络资源一览 <br> https://github.com/zzh1996/USTC-Network-Resources |
+| 4 | 浙江大学 | 世界一流大学A类<br>985 | 课程攻略共享计划 <br> https://github.com/QSCTech/zju-icicles <br> https://qsctech.github.io/zju-icicles/ <br> https://github.com/zhanghai/archexp <br> 软件工程专业本科部分课程复习笔记 <br> https://github.com/toooooodo/ZJU-SE-Notes <br> 本科生的计算机、地理信息科学知识库 <br> https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes <br> 电子科学与技术专业部分课程 <br> https://github.com/hhubibi/zju-isee <br> 信电学院2022信号与系统课程资料 <br> https://github.com/VipaiLab/Signals-and-Systems-course <br> 光电信息科学与工程学院-光电信息科学与工程（OPT）课程共享计划 <br> https://github.com/yinze00/ZJU-OPT <br> PAT纯C语言题解 <br> https://github.com/oliverlew/PAT |
+| 5 | 上海交通大学 | 世界一流大学A类<br>985 | 课程分享 <br> https://github.com/c-hj/SJTU-Courses <br> 软件学院课程计算机系统工程(SE124)笔记 <br> https://github.com/Kami-code/SE124-CSE-2021-Notes |
+| 6 | 东南大学 | 世界一流大学A类<br>985 | 课程共享计划 <br> https://github.com/zjdx1998/seucourseshare <br> https://github.com/ChangWinde/SouthEastUniversity <br> https://github.com/npubird/KnowledgeGraphCourse <br> https://github.com/npubird/softwaretesting <br> 东南大学优秀开源项目整合 <br> https://github.com/seuite/awesome-seu  |
+| 7 | 中山大学 | 世界一流大学A类<br>985 | 课程资料分享 <br> https://github.com/sysuexam/SYSU-Exam <br> 数据科学与计算机学院计算机科学专业的课程资料 <br> https://github.com/ysyisyourbrother/SYSU_Notebook |
+| 8 | 南京大学 | 世界一流大学A类<br>985 | 课程复习资料 <br> https://github.com/idealclover/NJU-Review-Materials <br> https://github.com/ZhangYikaii/NJUCS-Course-Material <br> 计算机科学与技术845考研公共课和专业课资料 <br> https://github.com/JackeyLea/NJUCS <br> 《数据新闻》课程 <br> https://github.com/data-journalism/dj2016 <br> 计算机系数理逻辑课程资料 <br> https://github.com/sleepycoke/Mathematical_Logic_NJUCS <br> 南哪指南 <br> https://nju.today/  |
+| 9 | 郑州大学 | 世界一流大学B类<br>211 | 课程资料共享计划 <br> https://github.com/CooperNiu/ZZU-Courses-Resource |
+| 10 | 广东工业大学 |   | 计算机学院课程攻略 <br> https://github.com/brenner8023/gdut-course <br> https://brenner8023.github.io/gdut-course/  |
+| 11 | 华南师范大学 | 世界一流学科<br>211 | 计算机学院 - 0xFFFF CS Wiki <br> https://www.yuque.com/0xffff.one/cs-learning  |
+| 12 | 山东科技大学 |   | 课程资源共享计划 <br> https://github.com/deepwzh/sdust-examination-materials |
+| 13 | 北京化工大学 | 世界一流学科<br>211 | 课程资料整理开源项目 <br> https://github.com/BUCTBASE/BUCTBASE  |
+| 14 | 复旦大学 | 世界一流大学A类<br>985 | 课程资源 <br> https://github.com/openFudan/fudan-coursera |
+| 15 | 深圳大学 |   | CS本科 课程资源共享 <br> https://github.com/Alex-Shen1121/SZU_Learning_Resource <br> https://github.com/szm007/SZU_Learning_resource_sharing  |
+| 16 | 武汉大学 | 世界一流大学A类<br>985 | 课程资料整理-WHU课代表计划 <br> https://github.com/openwhu/OpenWHU |
+| 17 | 哈尔滨工业大学 | 世界一流大学A类<br>985 | 计算机学科课程资料 <br> https://github.com/Aidenwuyin/HIT-Courses <br> https://github.com/ChestnutQiang/HIT-Computer-Courses <br> （深圳）计算机科学与技术研究生课程 <br> https://github.com/LiYing0/CS_Gra-HITsz <br> 某大佬整理的计算机课程资料 <br> https://github.com/hahaok/HIT-Computer-Courses <br> 计算机系统课程（2021春） <br> https://github.com/cuttingedge191/HITCS-ICS_CSAPP <br> 课程资源分享 <br> https://github.com/richardodliu/HIT-Courses <br> 计算学部课程历年试题及学习资料 <br> https://github.com/yink12138/HITCS_Papers |
+| 18 | 南京邮电大学 | 世界一流学科 | 通识课程历年资料 <br> https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams <br> https://njuptfreeexams.github.io/ <br> 南京邮电大学黄页 <br> https://github.com/Wonz5130/NJUPT-Yellow-Page |
+| 19 | 南京航空航天大学 | 世界一流学科<br>211 | 计算机考研 专业课资料 和 信息汇总 <br> https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan |
+| 20 | 西北大学| 世界一流学科<br>211 | 课程资源共享 <br> https://resour.nwu.icu/ |
+| 21 | 同济大学 | 世界一流大学A类<br>985 | 课程资源共享仓库 <br> https://github.com/TJ-CSCCG/TJCS-Course <br> 软件学院软件工程课堂笔记 <br> https://github.com/MountPOTATO/Software-Engineering-Notes |
+| 22 | 中国矿业大学 | 世界一流学科<br>211 | 课程资源 <br> https://github.com/LetheSec/CUMT-IS-Course-Resources |
+| 23 | 山东财经大学 |   | 课程资源 <br> https://github.com/SDUFE-Resource/SDUFE-Course |
+| 24 | 山东大学 | 世界一流大学A类<br>985 | 软件学院学习资料共享 <br> https://github.com/yingzhou20/sdu-sc-resources |
+| 25 | 电子科技大学 | 世界一流大学A类<br>985 | 课程资料共享平台 <br> https://github.com/Xovee/uestc-course |
+| 26 | 北京航空航天大学 | 世界一流大学A类<br>985 | 课程作业资料共享计划 <br> https://github.com/TheBloodthirster/BUAA_Course_Sharing <br> https://github.com/Muyiyunzi/ShuLiTongJi_BUAA |
 | 27 | 西安交通大学 | Top | 课程资料共享计划 <br> https://github.com/cantjie/XJTU-Share <br> https://gitee.com/cantjie/XJTU-Share |
 | 28 | 华中科技大学 | Top | 研究生课程资料 <br> https://github.com/lyandut/HUST-Invictus <br> https://github.com/Noble-117/HUST_MSE_Resource <br> https://github.com/AlexFanw/HUSTER-CS <br> 电信学院-电信专业 的课程分享与攻略 <br> https://github.com/YuetianW/HUST_EIC_Intro <br> 人工智能与自动化学院课程资源 <br> https://github.com/mfp0610/HUST-AIA-Courses-Resource |
 | 29 | 广州大学 | Top | 方班课程&学习资源共享计划 <br> https://github.com/LANVNAL/GZHU_Fang_Course_Materials |
