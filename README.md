@@ -66,7 +66,7 @@
 | 58 | 杭州电子科技大学 | Top | 在杭电的知识与经验 <br> https://github.com/FengGuanxi/HDU-Experience |
 | 59 | 陕西师范大学 | Top | "可视化程序设计"课程的实验报告与代码 <br> https://github.com/snnucs/snnu-csharp-course |
 | 60 | 西安电子科技大学 | Top | 计算机科学与技术面向对象程序设计（OOP）课件/大作业/复习资料 <br> https://github.com/larry6799/XDU_OOP <br> 通信工程学院教改班 大学物理（全英授课） 笔记 PPT 作业及作业答案 <br> https://github.com/XiaooooooBawang/XDU_university_physics_note |
-| ☆ | 很多大学 | * | 计算机考研和软件工程考研专业的各个学校考研真题 <br> https://github.com/csseky/cskaoyan <br> 计算机408专业课：《计算机操作系统》、《数据结构》、《计算机网络》、《操作系统》分学科整理 <br> https://github.com/mmdapl/408CSFamily <br> https://mmdapl.github.io/408CSFamily/ |
+| ☆ | 很多大学 | * | 计算机考研和软件工程考研专业的各个学校考研真题 <br> https://github.com/csseky/cskaoyan <br> 计算机408专业课分学科整理 <br> https://github.com/mmdapl/408CSFamily <br> https://mmdapl.github.io/408CSFamily/ |
 
 
 ## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
