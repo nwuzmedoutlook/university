@@ -107,7 +107,7 @@
 | 99 | 中国海洋大学 | 世界一流大学A类<br>985、211 | 计算机科学与技术课程资料 <br> https://github.com/chenyang1999/MyComputerCollegeCourses |
 | 100 | 西安邮电大学 |   | 往年期末考题 <br> https://github.com/user055vssv/-xupt-finalExam |
 | ☆ | 很多大学 | 考研 | 计算机考研和软件工程考研专业的各个学校考研真题 <br> https://github.com/csseky/cskaoyan <br> 计算机408专业课分学科整理 <br> https://github.com/mmdapl/408CSFamily <br> https://mmdapl.github.io/408CSFamily/ <br> CSPostgraduate 计算机考研 408 专业课资料及真题资源 <br> https://github.com/CodePanda66/CSPostgraduate-408 <br> 备考2021年研究生-408 <br> https://github.com/hao14293/2021-Postgraduate-408 |
-
+| ☆ | 国外高校 | 美国著名大学 | 计算机科学课程列表 <br> https://github.com/prakhar1989/awesome-courses |
 
 ## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
