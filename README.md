@@ -6,11 +6,11 @@
 
 | 序号 | 学校名称 | 学校类型 | 课程资源链接 |
 | :---: | :---: | :---: | --- |
-| 1 | 清华大学 | Top | 计算机系课程攻略 <br> https://github.com/Salensoft/thu-cst-cracker <br> https://github.com/PKUanonym/REKCARC-TSC-UHT <br> https://rekcarc-tsc-uht.readthedocs.io/en/latest/ |
+| 1 | 清华大学 | Top | 计算机系课程攻略 <br> https://github.com/Salensoft/thu-cst-cracker <br> https://github.com/PKUanonym/REKCARC-TSC-UHT <br> https://rekcarc-tsc-uht.readthedocs.io/en/latest/ <br> 计算机系考研攻略 <br> https://github.com/stellarkey/912_project |
 | 2 | 北京大学 | Top | 课程资源 <br> https://github.com/lib-pku/libpku<br>https://lib-pku.github.io/ <br> 计算机课程大作业 <br> https://github.com/tongtzeho/PKUCourse <br> ics课程资料 <br> https://github.com/lihy11/pku-ics <br> 程序设计实习公开课 （C++版）<br> https://github.com/lishuwei0424/ProgrammingAndAlgorithm <br> 裘宗燕(退休) [2000年以来讲授过的课程](https://www.math.pku.edu.cn/teachers/qiuzy/courses.htm) |
 | 3 | 中国科学技术大学 | 世界一流大学A类<br>985、211 | 课程资源 <br> https://github.com/USTC-Resource/USTC-Course <br> https://ustc-resource.github.io/USTC-Course/ <br> https://github.com/WangJianing-BGH/USTC-Course_Copy <br> 计算机学院课程资源 <br> https://github.com/15172658790/Blog <br> https://github.com/ustcwpz/USTC-CS-Courses-Resource <br> 2019-2020课程（秋季，春季，夏季） <br> https://github.com/HuangCongQing/UCAS_Course_2019 <br> 计算机学院课程资源2022 <br> https://github.com/windwangustc/USTC-CS-Coureses <br> https://github.com/WYGNG?tab=repositories <br> 软件学院研究生部分课程 <br> https://github.com/outman123/USTC-SSE-Courses <br> 中国科大网络资源一览 <br> https://github.com/zzh1996/USTC-Network-Resources |
 | 4 | 浙江大学 | 世界一流大学A类<br>985、211 | 课程攻略共享计划 <br> https://github.com/QSCTech/zju-icicles <br> https://qsctech.github.io/zju-icicles/ <br> https://github.com/zhanghai/archexp <br> 软件工程专业本科部分课程复习笔记 <br> https://github.com/toooooodo/ZJU-SE-Notes <br> 本科生的计算机、地理信息科学知识库 <br> https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes <br> 电子科学与技术专业部分课程 <br> https://github.com/hhubibi/zju-isee <br> 信电学院2022信号与系统课程资料 <br> https://github.com/VipaiLab/Signals-and-Systems-course <br> 光电信息科学与工程学院-光电信息科学与工程（OPT）课程共享计划 <br> https://github.com/yinze00/ZJU-OPT <br> PAT纯C语言题解 <br> https://github.com/oliverlew/PAT |
-| 5 | 上海交通大学 | 世界一流大学A类<br>985、211 | 课程分享 <br> https://github.com/c-hj/SJTU-Courses <br> 软件学院课程计算机系统工程(SE124)笔记 <br> https://github.com/Kami-code/SE124-CSE-2021-Notes |
+| 5 | 上海交通大学 | 世界一流大学A类<br>985、211 | 课程分享 <br> https://github.com/c-hj/SJTU-Courses <br> 软件学院课程计算机系统工程(SE124)笔记 <br> https://github.com/Kami-code/SE124-CSE-2021-Notes <br> 更新2008年版本的《上海交通大学生存手册》 <br> https://github.com/SurviveSJTU/SurviveSJTUManual <br> https://survivesjtu.gitbook.io/survivesjtumanual/ |
 | 6 | 东南大学 | 世界一流大学A类<br>985、211 | 课程共享计划 <br> https://github.com/zjdx1998/seucourseshare <br> https://github.com/ChangWinde/SouthEastUniversity <br> https://github.com/npubird/KnowledgeGraphCourse <br> https://github.com/npubird/softwaretesting <br> 东南大学优秀开源项目整合 <br> https://github.com/seuite/awesome-seu  |
 | 7 | 中山大学 | 世界一流大学A类<br>985、211 | 课程资料分享 <br> https://github.com/sysuexam/SYSU-Exam <br> 数据科学与计算机学院计算机科学专业的课程资料 <br> https://github.com/ysyisyourbrother/SYSU_Notebook |
 | 8 | 南京大学 | 世界一流大学A类<br>985、211 | 课程复习资料 <br> https://github.com/idealclover/NJU-Review-Materials <br> https://github.com/ZhangYikaii/NJUCS-Course-Material <br> 计算机科学与技术845考研公共课和专业课资料 <br> https://github.com/JackeyLea/NJUCS <br> 《数据新闻》课程 <br> https://github.com/data-journalism/dj2016 <br> 计算机系数理逻辑课程资料 <br> https://github.com/sleepycoke/Mathematical_Logic_NJUCS <br> 南哪指南 <br> https://nju.today/  |
@@ -66,7 +66,7 @@
 | 58 | 杭州电子科技大学 |   | 在杭电的知识与经验 <br> https://github.com/FengGuanxi/HDU-Experience |
 | 59 | 陕西师范大学 | 世界一流学科<br>211 | "可视化程序设计"课程的实验报告与代码 <br> https://github.com/snnucs/snnu-csharp-course |
 | 60 | 西安电子科技大学 | 世界一流学科<br>211 | 计算机科学与技术面向对象程序设计（OOP）课件/大作业/复习资料 <br> https://github.com/larry6799/XDU_OOP <br> 通信工程学院教改班 大学物理（全英授课） 笔记 PPT 作业及作业答案 <br> https://github.com/XiaooooooBawang/XDU_university_physics_note |
-| ☆ | 很多大学 | * | 计算机考研和软件工程考研专业的各个学校考研真题 <br> https://github.com/csseky/cskaoyan <br> 计算机408专业课分学科整理 <br> https://github.com/mmdapl/408CSFamily <br> https://mmdapl.github.io/408CSFamily/ |
+| ☆ | 很多大学 | 考研 | 计算机考研和软件工程考研专业的各个学校考研真题 <br> https://github.com/csseky/cskaoyan <br> 计算机408专业课分学科整理 <br> https://github.com/mmdapl/408CSFamily <br> https://mmdapl.github.io/408CSFamily/ <br> CSPostgraduate 计算机考研 408 专业课资料及真题资源 <br> https://github.com/CodePanda66/CSPostgraduate-408 <br> 备考2021年研究生-408 <br> https://github.com/hao14293/2021-Postgraduate-408 |
 
 
 ## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
