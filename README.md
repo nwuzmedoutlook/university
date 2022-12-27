@@ -79,9 +79,6 @@
 | 71 | 南京农业大学 | 世界一流学科<br>211 | 人工智能专业本科课程资料 <br> https://github.com/Beerander/NJAU-AI-DATA |
 | 72 | 苏州大学 | 世界一流学科<br>211 | 软件工程专业（本科）相关课程资料 <br> https://github.com/wminez/SUDA-SE-lessons |
 | 73 | 四川大学 | 世界一流大学A类<br>985、211 | 计算机学院计算机科学与技术专业的各类课程的资料、学习建议以及作业 <br> https://github.com/zNine0414/SCU-CS-LearningMaterials |
-
-
-
 | ☆ | 很多大学 | 考研 | 计算机考研和软件工程考研专业的各个学校考研真题 <br> https://github.com/csseky/cskaoyan <br> 计算机408专业课分学科整理 <br> https://github.com/mmdapl/408CSFamily <br> https://mmdapl.github.io/408CSFamily/ <br> CSPostgraduate 计算机考研 408 专业课资料及真题资源 <br> https://github.com/CodePanda66/CSPostgraduate-408 <br> 备考2021年研究生-408 <br> https://github.com/hao14293/2021-Postgraduate-408 |
 
 
