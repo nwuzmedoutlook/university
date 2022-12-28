@@ -27,7 +27,7 @@
 | 19 | 南京航空航天大学 | 世界一流学科<br>211 | 课程资源共享计划 <br> https://github.com/NUAA-Open-Source/NUAA-Course <br> 计算机考研 专业课资料 和 信息汇总 <br> https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan <br> 课程资料分享 <br> https://github.com/wardendwd/NUAA-Courses |
 | 20 | 西北大学| 世界一流学科<br>211 | 课程资源共享 <br> https://resour.nwu.icu/ |
 | 21 | 同济大学 | 世界一流大学A类<br>985、211 | 课程资源共享仓库 <br> https://github.com/TJ-CSCCG/TJCS-Course <br> 软件学院软件工程课堂笔记 <br> https://github.com/MountPOTATO/Software-Engineering-Notes |
-| 22 | 中国矿业大学 | 世界一流学科<br>211 | 课程资源 <br> https://github.com/LetheSec/CUMT-IS-Course-Resources |
+| 22 | 中国矿业大学（徐州） | 世界一流学科<br>211 | 课程资源 <br> https://github.com/LetheSec/CUMT-IS-Course-Resources |
 | 23 | 山东财经大学 |   | 课程资源 <br> https://github.com/SDUFE-Resource/SDUFE-Course |
 | 24 | 山东大学 | 世界一流大学A类<br>985、211 | 软件学院学习资料共享 <br> https://github.com/yingzhou20/sdu-sc-resources <br> 课程资料共享计划 <br> https://github.com/sdu-openlab/OpenCourse | 
 | 25 | 电子科技大学 | 世界一流大学A类<br>985、211 | 课程资料共享平台 <br> https://github.com/Xovee/uestc-course <br> 课程资料整理 <br> https://github.com/Venatoral/uestcPublic <br> 研究生课程复习资料 <br> https://github.com/zint99/uestcCourses <br> 信息与软件学院研究生一年级学科课程资料 <br> https://github.com/RCsai/course-graduate-year-one <br> 网络空间安全专业本科生课程实验及学习资料 <br> https://github.com/boyuh/UESTC-SCSE-CyberspaceSecurity-StudyMaterials <br> 软件工程课程资料 <br> https://github.com/Jason-xy/UESTC_SoftwareEngineeringCourse <br> 信息与软件工程研究生课程资料 <br> https://github.com/fycm123/postgraduate-curriculum-uestc |
