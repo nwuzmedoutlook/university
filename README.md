@@ -15,7 +15,7 @@
 | 7 | 中山大学 | 世界一流大学A类<br>985、211 | 课程资料分享 <br> https://github.com/sysuexam/SYSU-Exam <br> 数据科学与计算机学院计算机科学专业的课程资料 <br> https://github.com/ysyisyourbrother/SYSU_Notebook <br> 《图论及其应用》课程的资料、作业、部分算法实现 <br> https://github.com/ayanamists/Graph-Theroy <br> 手机平台应用开发2016课程的实验文档以及课程PPT等资料 <br> https://github.com/yanglh751202951/SYSU_Android <br> 蔡国杨老师操作系统课程资料以及作业 <br> https://github.com/yoyo-hu/sysu_os <br> 电子与信息工程学院的课程资料 <br> https://github.com/gear0803/SEITNoteBook <br> 计算机科学与技术专业时部分课程 <br> https://github.com/KONZEM/SYSU_Undergraduate <br> 计算机科学与技术专业的课程资料 <br> https://github.com/SleepingMonster/SYSU_Courses |
 | 8 | 南京大学 | 世界一流大学A类<br>985、211 | 课程复习资料 <br> https://github.com/idealclover/NJU-Review-Materials <br> https://github.com/ZhangYikaii/NJUCS-Course-Material <br> 计算机科学与技术845考研公共课和专业课资料 <br> https://github.com/JackeyLea/NJUCS <br> 《数据新闻》课程 <br> https://github.com/data-journalism/dj2016 <br> 计算机系数理逻辑课程资料 <br> https://github.com/sleepycoke/Mathematical_Logic_NJUCS <br> 南哪指南 <br> https://nju.today/ <br> 计算机科学与技术系课程资料 <br> https://github.com/AminoACID123/Data <br> 理论力学课程资料2019 <br> https://github.com/katherine1473789695/nju-theoretical-mechanics <br> 电子系课程资料汇总 <br> https://github.com/fantasyEthan/NJUEE_course_material |
 | 9 | 郑州大学 | 世界一流大学B类<br>211 | 课程资料共享计划 <br> https://github.com/CooperNiu/ZZU-Courses-Resource <br> https://gitee.com/hs-fuxiaoqiang/ZZU-Courses-Resource |
-| 10 | 广东工业大学 |   | 计算机学院课程攻略 <br> https://github.com/brenner8023/gdut-course <br> https://brenner8023.github.io/gdut-course/ <br> 课程攻略共享计划 <br> https://github.com/gdutday/gdut-lib |
+| 10 | 广东工业大学 |   | 计算机学院课程攻略 <br> https://github.com/brenner8023/gdut-course <br> https://brenner8023.github.io/gdut-course/ <br> 课程攻略共享计划 <br> https://github.com/gdutday/gdut-lib <br> https://github.com/ThousandC/GDUT-CSSP |
 | 11 | 华南师范大学 | 世界一流学科<br>211 | 计算机学院 - 0xFFFF CS Wiki <br> https://www.yuque.com/0xffff.one/cs-learning  |
 | 12 | 山东科技大学 |   | 课程资源共享计划 <br> https://github.com/deepwzh/sdust-examination-materials <br> https://gitee.com/zhj0125/sdust-examination-materials <br> 电子版书籍、相关学习资料、作业答案和代码 <br> https://github.com/SDUSTS/SDUST-Study-Library |
 | 13 | 北京化工大学 | 世界一流学科<br>211 | 课程资料整理开源项目 <br> https://github.com/BUCTBASE/BUCTBASE  |
@@ -120,9 +120,7 @@
 | 112 | 盐城工学院 |   | 课程攻略共享计划 <br> https://github.com/ZHlovecat/ycitedu <br> https://zhlovecat.github.io/ycitedu/#/ |
 | 113 | 郑州科技学院 |   | 课程攻略共享计划 <br> https://github.com/dqy12130/ZKY-TECH |
 | 114 | 内蒙古农业大学 |   | 课程攻略共享计划 <br> https://github.com/track-tech/IMAU_Course_Sharing |
-| 115 | 南方科技大学 |   | 课程攻略共享计划 <br> https://github.com/bbw7561135/SUSTech-Courses |
-
-
+| 115 | 南方科技大学 |   | 课程攻略共享计划 <br> https://github.com/bbw7561135/SUSTech-Courses <br> 智能医学工程课程材料共享计划 <br> https://github.com/Penguin134/SUSTech_IME |
 | ☆ | 很多大学 | 考研 | 计算机考研和软件工程考研专业的各个学校考研真题 <br> https://github.com/csseky/cskaoyan <br> 计算机408专业课分学科整理 <br> https://github.com/mmdapl/408CSFamily <br> https://mmdapl.github.io/408CSFamily/ <br> CSPostgraduate 计算机考研 408 专业课资料及真题资源 <br> https://github.com/CodePanda66/CSPostgraduate-408 <br> 备考2021年研究生-408 <br> https://github.com/hao14293/2021-Postgraduate-408 |
 | ☆ | 国外高校 | 美国著名大学 | 计算机科学课程列表 <br> https://github.com/prakhar1989/awesome-courses |
 
