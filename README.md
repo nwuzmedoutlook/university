@@ -124,10 +124,10 @@
 | 116 | 西安科技大学 |   | 计算机系一些科目的往年期末考试试卷 <br> https://github.com/qingxuanxx/XUST-final-examination-paper |
 | 117 | 华南理工大学 | 世界一流大学A类<br>985、211 | 软件学院期末考试&课程作业集中对策材料 <br> https://github.com/XDeviation/material.SCUTSE |
 | ☆ | 很多大学 | 考研 | 计算机考研和软件工程考研专业的各个学校考研真题 <br> https://github.com/csseky/cskaoyan <br> 计算机408专业课分学科整理 <br> https://github.com/mmdapl/408CSFamily <br> https://mmdapl.github.io/408CSFamily/ <br> CSPostgraduate 计算机考研 408 专业课资料及真题资源 <br> https://github.com/CodePanda66/CSPostgraduate-408 <br> 备考2021年研究生-408 <br> https://github.com/hao14293/2021-Postgraduate-408 |
-| ☆ | 国外高校 | 美国著名大学 | 计算机科学课程列表 <br> [https://github.com/prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
-| ☆ | 腾讯文档 | 视频课程收集 | 最全公开课知识库 <br> [https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze](https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze) |
-| ☆ | 导师评价 |   | 导师评价网-导师点评网-导师推荐人 <br> [https://www.daoshipingjia.xyz/](https://www.daoshipingjia.xyz/) |
-| ☆ | 课程评价 |   | 名校公开课程评价网   <br> [https://conanhujinming.github.io/comments-for-awesome-courses/](https://conanhujinming.github.io/comments-for-awesome-courses/) |
+| ☆ | 国外高校 | 美国著名大学 | 计算机科学课程列表 <br> <a href="https://github.com/prakhar1989/awesome-courses" target="_blank" > |
+| ☆ | 腾讯文档 | 视频课程收集 | 最全公开课知识库 <br> <a href="https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze" target="_blank" > |
+| ☆ | 导师评价 |   | 导师评价网-导师点评网-导师推荐人 <br> <a href="https://www.daoshipingjia.xyz/" target="_blank" > |
+| ☆ | 课程评价 |   | 名校公开课程评价网   <br> <a href="https://conanhujinming.github.io/comments-for-awesome-courses/" target="_blank" > |
 
 ## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
