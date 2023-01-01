@@ -135,24 +135,3 @@
 
 Made with 💖 by <a href="https://co2co2.cf" target="_blank" rel="noopener">NWUzmed</a>, 
 <p align="right">Last updated: 2023.01.01</p>
-
-<head>
-  <!-- ... -->
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/@waline/client@v2/dist/waline.css"
-  />
-  <!-- ... -->
-</head>
-<body>
-  <!-- ... -->
-  <div id="waline"></div>
-  <script type="module">
-    import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
-
-    init({
-      el: '#waline',
-      serverURL: 'http://mark-down.cf/',
-    });
-  </script>
-</body>
