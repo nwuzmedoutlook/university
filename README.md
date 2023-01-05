@@ -128,6 +128,7 @@
 | ☆ | 很多大学 | 考研 | 计算机考研和软件工程考研专业的各个学校考研真题 <br> https://github.com/csseky/cskaoyan <br> 计算机408专业课分学科整理 <br> https://github.com/mmdapl/408CSFamily <br> https://mmdapl.github.io/408CSFamily/ <br> CSPostgraduate 计算机考研 408 专业课资料及真题资源 <br> https://github.com/CodePanda66/CSPostgraduate-408 <br> 备考2021年研究生-408 <br> https://github.com/hao14293/2021-Postgraduate-408 |
 | ☆ | 国外高校 | 美国著名大学 | 计算机科学课程列表 <br> https://github.com/prakhar1989/awesome-courses |
 | ☆ | 腾讯文档 | 视频课程收集 | 最全公开课知识库 <br> https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze |
+| ☆ | 数学建模 | 本科、硕士 | 优秀论文，算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT <br> https://github.com/zhanwen/MathModel |
 | ☆ | 导师评价 |   | 导师评价网-导师点评网-导师推荐人 <br> https://www.daoshipingjia.xyz |
 | ☆ | 课程评价 |   | 名校公开课程评价网   <br> https://conanhujinming.github.io/comments-for-awesome-courses |
 
