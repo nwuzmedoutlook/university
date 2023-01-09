@@ -90,7 +90,7 @@
 | 82 | 重庆邮电大学 |   | 课程资料 <br> https://github.com/HuangCongQing/CQUPT_Course |
 | 83 | 浙江工商大学 |   | 课程攻略共享计划 <br> https://github.com/MuskAI/zjsu_backyard <br> 课程资料 <br> https://github.com/ranxi2001/My_Courses |
 | 84 | 上海大学 | 世界一流学科<br>211 | 概率论与数理统计 课程资料 <br> https://github.com/YANthinkn/Probability-and-Mathematical-Statistics <br> 计算机工程与科学学院 计算机网络A 课程资料 <br> https://github.com/YANthinkn/SHU-Computer-Network <br> 钱伟长学院必要课程指南 <br> https://gitee.com/ss1nz7/SHU_QWC-college-courses |
-| 85 | 浙江工业大学 |   | <br>课程攻略共享计划 <br> https://github.com/j10ccc/zjut-icicles <br> 理学院(主)本科课程资料分享 <br> https://github.com/01tu01/share_mathematic_material_ZJUT |
+| 85 | 浙江工业大学 |   | 课程攻略共享计划 <br> https://github.com/j10ccc/zjut-icicles <br> 理学院(主)本科课程资料分享 <br> https://github.com/01tu01/share_mathematic_material_ZJUT |
 | 86 | 福州大学 | 世界一流学科<br>211 | 计算机课程课件等资料 <br> https://github.com/AlliotTech/fzu_cs_doc |
 | 87 | 江西师范大学 |   | 课程共享资料仓库 <br> https://github.com/Zen-ZJ/libjxnu |
 | 88 | 广西大学 | 世界一流学科<br>211 | 课程资料分享 <br> https://github.com/fishcf/GXU-Courses |
