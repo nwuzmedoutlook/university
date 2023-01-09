@@ -48,7 +48,7 @@
 | 40 | 中国科学院大学 | 世界一流学科 | 2019-2020课程（秋季，春季，夏季） <br> https://github.com/HuangCongQing/UCAS_Course_2019 <br> https://github.com/Ming-Lian/Machine-Learning-Course-in-UCAS <br> https://github.com/univeryinli/ucas-ppt <br> 研一课程教材课件共享项目 <br> https://github.com/txz741/UCAS-Course <br> 运筹学通论课程相关资料 <br> https://github.com/yimingli1998/UCAS_Operational_Research <br> 矩阵分析与应用课程相关资料 <br> https://github.com/yimingli1998/UCAS_Matrix <br> 随机过程讲义及习题解答 <br> https://github.com/yimingli1998/UCAS_StochasticProcess <br> 《概率方法与随机图》课程作业与教材 <br> https://github.com/jindongwang/ProbabilityHomework <br> 深度学习课程资料 2022年春季课程 <br> https://github.com/ZanderZhao/deep-learning-ucas-2022 <br> 研究生课程资料 <br> https://github.com/RuoyuChen10/Study_report <br> 2020年课程资料 <br> https://github.com/sunbaby01/UCAS_Course_2020 <br> 计算机相关课程资料(2021-2022学年) <br> https://github.com/wudidada/ucas-cs-course <br> 2020届研一课程资料分享 <br> https://github.com/sebastinaa/UCAS_Course_2020 |
 | 41 | 天津医科大学 |   | 生物医学工程与技术学院课程资料 <br> https://github.com/Yixf-Education?tab=repositories |
 | 42 | 北京林业大学 | 世界一流学科<br>211 | 信息学院课程攻略 <br> https://github.com/bljx/BFU-leaf |
-| 43 | 北京邮电大学 | 世界一流学科<br>211 | 计算机学院本科编程作业索引 <br> https://github.com/brupst/awesome-bupt-scs <br> https://github.com/fly51fly/Principle-of-Web-Search <br> 吴恩达深度学习系列课程的笔记 <br> https://github.com/MsunM-cell/Deep-Learning <br> 计算机科学与技术专业大三课程相关资料 <br> https://github.com/MsunM-cell/Third-Year <br> 2018级的大三上学习资料 <br> https://github.com/bupt-Jayce-upperclassman/buptsse-2018-study-materials <br> 计算机科学与技术大三上必修课数据库基本原理 <br> https://github.com/Septerxy/BUPT_Database |
+| 43 | 北京邮电大学 | 世界一流学科<br>211 | 计算机学院本科编程作业索引 <br> https://github.com/brupst/awesome-bupt-scs <br> https://github.com/fly51fly/Principle-of-Web-Search <br> 吴恩达深度学习系列课程的笔记 <br> https://github.com/MsunM-cell/Deep-Learning <br> 计算机科学与技术专业大三课程相关资料 <br> https://github.com/MsunM-cell/Third-Year <br> 2018级的大三上学习资料 <br> https://github.com/bupt-Jayce-upperclassman/buptsse-2018-study-materials <br> 计算机科学与技术大三上必修课数据库基本原理 <br> https://github.com/Septerxy/BUPT_Database <br> 计算机考研信息汇总 <br> https://ningzimu.github.io/See_you_in_BUPT/ |
 | 44 | 天津理工大学 |   | 计算机专业 课程资料共享库 <br> https://github.com/DukeWF/TJUT_CS_Helper <br> https://gitee.com/gaopeihan/TJUT_CS_Helper |
 | 45 | 厦门大学 | 世界一流大学A类<br>985、211 | 攻略大全 <br> https://github.com/XMU-Helper/home <br> 信息学院软件工程系黄炜副教授的教学资料 <br> https://gitee.com/whuangxmu/courses |
 | 46 | 天津大学 | 世界一流大学A类<br>985、211 | 课程共享计划 <br> https://github.com/SuperPung/TJU-CourseSharing |
@@ -80,7 +80,7 @@
 | 72 | 苏州大学 | 世界一流学科<br>211 | 软件工程专业（本科）相关课程资料 <br> https://github.com/wminez/SUDA-SE-lessons <br> https://github.com/Snowfly-T/SUDA-SE-lessons |
 | 73 | 四川大学 | 世界一流大学A类<br>985、211 | 课程共享计划 <br> https://github.com/lishinho/SCU-Courses <br> 计算机学院计算机科学与技术专业的各类课程的资料、学习建议以及作业 <br> https://github.com/zNine0414/SCU-CS-LearningMaterials <br> 软件工程课程相关资料 <br> https://github.com/Toufupi/SCU_SoftwareEngine_Course |
 | 74 | 澳门科技大学 |   | 大三上学期课程所需资料 <br> https://github.com/lihanxiang/MUST-2018-19-Learning-Materials |
-| 75 | 华北电力大学 | 世界一流学科<br>211 | 课程资料分享 <br> https://github.com/fakeys/NCEPU-Courses |
+| 75 | 华北电力大学 | 世界一流学科<br>211 | 课程资料分享 <br> https://github.com/fakeys/NCEPU-Courses <br> 计算机系课程攻略 <br> https://github.com/IammyselfYBX/NCEPU_CS_course |
 | 76 | 中国计量大学 |   | 光电学院课程资料备份 <br> https://github.com/nobmaste/CJLU-Share |
 | 77 | 渤海大学 |   | 软件工程相关课程资料 <br> https://github.com/HangChi/BHU-SoftwareEngineering |
 | 78 | 上海电机学院 |   | SDJU 计算机系 CS SE 课程资料 代码 实验报告 期末考试 <br> https://github.com/xonoer/SDJU-Course-Material |
@@ -129,10 +129,11 @@
 | ☆ | 国外高校 | 美国著名大学 | 计算机科学课程列表 <br> https://github.com/prakhar1989/awesome-courses |
 | ☆ | 腾讯文档 | 视频课程收集 | 最全公开课知识库 <br> https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze |
 | ☆ | 数学建模 | 本科、硕士 | 优秀论文，算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT <br> https://github.com/zhanwen/MathModel |
+| ☆ | 计算机学习资源 |  很多 | 计算机基础、C/C++、Java、Python、面试题、架构设计、算法系列等经典电子书 <br> https://github.com/GrindGold/pdf <br> https://gitee.com/grindgold/pdf |
 | ☆ | 导师评价 |   | 导师评价网-导师点评网-导师推荐人 <br> https://www.daoshipingjia.xyz |
 | ☆ | 课程评价 |   | 名校公开课程评价网   <br> https://conanhujinming.github.io/comments-for-awesome-courses |
 
 ## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
 Made with 💖 by <a href="https://co2co2.cf" target="_blank" rel="noopener">NWUzmed</a>, 
-<p align="right">Last updated: 2023.01.05</p>
+<p align="right">Last updated: 2023.01.09</p>
