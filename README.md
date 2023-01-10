@@ -2,6 +2,7 @@
 
 ## 😎欢迎大家<a href="http://nwu-zmed.mikecrm.com/ByZJon8" target="_blank" style="color:#1d953f" >补充分享更多高校的课程资源链接</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/university/edit/main/README.md" target="_blank">🔨Pull Requests</a>
 #### 😆取之有度，用之有道；知识共享，文化互鉴；帮助他人，提升自己。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/university" target="_blank" style="color:#1d953f front-size:60px" >⭐Give me a star!</a>
+<a href="https://nwuzmedoutlook.github.io/career-plan" target="_blank" >🎓各大高校保研、留学、考研、就业经验分享</a>
 
 
 | 序号 | 学校名称 | 学校类型 | 课程资源链接 |
