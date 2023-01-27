@@ -132,11 +132,11 @@
 | ☆ | 国外高校 | 美国著名大学 | 计算机科学课程列表 <br> https://github.com/prakhar1989/awesome-courses |
 | ☆ | 腾讯文档 | 视频课程收集 | 最全公开课知识库 <br> https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze |
 | ☆ | 数学建模 | 本科、硕士 | 优秀论文，算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT <br> https://github.com/zhanwen/MathModel |
-| ☆ | 计算机学习资源 |  很多 | 计算机基础、C/C++、Java、Python、面试题、架构设计、算法系列等经典电子书 <br> https://github.com/GrindGold/pdf <br> https://gitee.com/grindgold/pdf <br> 为大学生精心策划的资源列表 <br> https://github.com/dipakkr/A-to-Z-Resources-for-Students |
+| ☆ | 计算机学习资源 |  很多 | 计算机基础、C/C++、Java、Python、面试题、架构设计、算法系列等经典电子书 <br> https://github.com/GrindGold/pdf <br> https://gitee.com/grindgold/pdf <br> 为大学生精心策划的资源列表 <br> https://github.com/dipakkr/A-to-Z-Resources-for-Students <br> 计算机自学指南 <br> https://csdiy.wiki/ <br> https://github.com/PKUFlyingPig/cs-self-learning |
 | ☆ | 导师评价 |   | 导师评价网-导师点评网-导师推荐人 <br> https://www.daoshipingjia.xyz |
 | ☆ | 课程评价 |   | 名校公开课程评价网   <br> https://conanhujinming.github.io/comments-for-awesome-courses |
 
 ## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
 Made with 💖 by <a href="https://co2co2.cf" target="_blank" rel="noopener">NWUzmed</a>, 
-<p align="right">Last updated: 2023.01.09</p>
+<p align="right">Last updated: 2023.01.27</p>
