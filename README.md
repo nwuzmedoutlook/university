@@ -128,6 +128,7 @@
 | 119 | 青岛农业大学 |   | 许老师Android课程 <br> https://gitee.com/liucy1227/android2021 |
 | 120 | 安徽大学 | 世界一流学科<br>211 | 文典学院的笔记、经验和学习资料等 <br> https://pan.zzy2001.com/s/2AF4?path=%2F <br> https://github.com/classmatezhu/AHU-Course <br> https://gitee.com/classmatezhu/AHU-Course |
 | 121 | 浙大城市学院 |   | 软件工程，安卓。。java 高级， 物联网等 <br> https://acc15t4bm5.feishu.cn/docs/doccn3vt2AgpwyAWgVlDCULm1sh |
+| 122 | 南京信息工程大学 |   | 操作系统课程笔记 和 汇编语言课程笔记 <br> https://docs.pil0txia.com/ <br> https://github.com/Pil0tXia/docs |
 | ☆ | 很多大学 | 考研 | 计算机考研和软件工程考研专业的各个学校考研真题 <br> https://github.com/csseky/cskaoyan <br> 计算机408专业课分学科整理 <br> https://github.com/mmdapl/408CSFamily <br> https://mmdapl.github.io/408CSFamily/ <br> CSPostgraduate 计算机考研 408 专业课资料及真题资源 <br> https://github.com/CodePanda66/CSPostgraduate-408 <br> 备考2021年研究生-408 <br> https://github.com/hao14293/2021-Postgraduate-408 |
 | ☆ | 国外高校 | 美国著名大学 | 计算机科学课程列表 <br> https://github.com/prakhar1989/awesome-courses |
 | ☆ | 腾讯文档 | 视频课程收集 | 最全公开课知识库 <br> https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze |
@@ -139,4 +140,4 @@
 ## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
 Made with 💖 by <a href="https://co2co2.cf" target="_blank" rel="noopener">NWUzmed</a>, 
-<p align="right">Last updated: 2023.01.27</p>
+<p align="right">Last updated: 2023.02.10</p>
