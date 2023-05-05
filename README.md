@@ -131,7 +131,9 @@
 | 122 | 南京信息工程大学 |   | 操作系统课程笔记 和 汇编语言课程笔记 <br> https://docs.pil0txia.com/ <br> https://github.com/Pil0tXia/docs |
 | ☆ | 很多大学 | 考研 | 计算机考研和软件工程考研专业的各个学校考研真题 <br> https://github.com/csseky/cskaoyan <br> 计算机408专业课分学科整理 <br> https://github.com/mmdapl/408CSFamily <br> https://mmdapl.github.io/408CSFamily/ <br> CSPostgraduate 计算机考研 408 专业课资料及真题资源 <br> https://github.com/CodePanda66/CSPostgraduate-408 <br> 备考2021年研究生-408 <br> https://github.com/hao14293/2021-Postgraduate-408 |
 | ☆ | 国外高校 | 美国著名大学 | 计算机科学课程列表 <br> https://github.com/prakhar1989/awesome-courses |
-| ☆ | 腾讯文档 | 视频课程收集 | 最全公开课知识库 <br> https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze |
+| ☆ | ☆☆☆☆☆ | 各种学习资源 | 精选夸克网盘资源 <br> https://docs.qq.com/sheet/DRnVKY3hNQ0ttc1pp?tab=BB08JA |  
+| ☆ | ☆☆☆☆☆ | 视频课程收集 | 最全公开课知识库 <br> https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze |
+| ☆ | ☆☆☆☆☆ | 图欧资源导航站 | ⛵超3千TB全网资源导航（长期更新） <br> https://docs.qq.com/sheet/DS2llalZuVExpcVVa?tab=i8j5u9 |
 | ☆ | 数学建模 | 本科、硕士 | 优秀论文，算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT <br> https://github.com/zhanwen/MathModel |
 | ☆ | 计算机学习资源 |  很多 | 计算机基础、C/C++、Java、Python、面试题、架构设计、算法系列等经典电子书 <br> https://github.com/GrindGold/pdf <br> https://gitee.com/grindgold/pdf <br> 为大学生精心策划的资源列表 <br> https://github.com/dipakkr/A-to-Z-Resources-for-Students <br> 计算机自学指南 <br> https://csdiy.wiki/ <br> https://github.com/PKUFlyingPig/cs-self-learning |
 | ☆ | 导师评价 |   | 导师评价网-导师点评网-导师推荐人 <br> https://www.daoshipingjia.xyz |
@@ -140,4 +142,4 @@
 ## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
 Made with 💖 by <a href="https://ccus.cf" target="_blank" rel="noopener">NWUzmed</a>, 
-<p align="right">Last updated: 2023.02.10</p>
+<p align="right">Last updated: 2023.05.04</p>
