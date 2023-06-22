@@ -140,7 +140,7 @@
 | ☆ | 导师评价 |   | 导师评价网-导师点评网-导师推荐人 <br> https://www.daoshipingjia.xyz |
 | ☆ | 课程评价 |   | 名校公开课程评价网   <br> https://conanhujinming.github.io/comments-for-awesome-courses |
 
-## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
+## 更多内容，请关注<a href="https://studyhard.eu.org/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
 Made with 💖 by <a href="https://ccus.cf" target="_blank" rel="noopener">NWUzmed</a>, 
 <p align="right">Last updated: 2023.05.19</p>
