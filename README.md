@@ -134,6 +134,7 @@
 | ☆ | 国外高校 | 美国著名大学 | 计算机科学课程列表 <br> https://github.com/prakhar1989/awesome-courses |
 | ☆ | ☆☆☆☆☆ | 各种学习资源 | 精选夸克网盘资源 <br> https://docs.qq.com/sheet/DRnVKY3hNQ0ttc1pp?tab=BB08JA |  
 | ☆ | ☆☆☆☆☆ | 视频课程收集 | 最全公开课知识库 <br> https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze |
+| ☆ | 山河大学 | 全国首个大学生虚拟自办大学 | 课程收集 <br> https://docs.qq.com/sheet/DS0lnRmdiZEp3WmtI?tab=BB08J2 |
 | ☆ | ☆☆☆☆☆ | 图欧资源导航站 | ⛵超3千TB全网资源导航（长期更新） <br> https://docs.qq.com/sheet/DS2llalZuVExpcVVa?tab=i8j5u9 |
 | ☆ | 数学建模 | 本科、硕士 | 优秀论文，算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT <br> https://github.com/zhanwen/MathModel |
 | ☆ | 计算机学习资源 |  很多 | 计算机基础、C/C++、Java、Python、面试题、架构设计、算法系列等经典电子书 <br> https://github.com/GrindGold/pdf <br> https://gitee.com/grindgold/pdf <br> 为大学生精心策划的资源列表 <br> https://github.com/dipakkr/A-to-Z-Resources-for-Students <br> 计算机自学指南 <br> https://csdiy.wiki/ <br> https://github.com/PKUFlyingPig/cs-self-learning |
@@ -143,4 +144,4 @@
 ## 更多内容，请关注<a href="https://studyhard.eu.org/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
 Made with 💖 by <a href="https://ccus.cf" target="_blank" rel="noopener">NWUzmed</a>, 
-<p align="right">Last updated: 2023.05.19</p>
+<p align="right">Last updated: 2023.07.01</p>
