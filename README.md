@@ -66,7 +66,7 @@
 | 57 | 吉林大学 | 世界一流大学A类<br>985、211 | 通信工程自动化课程资料 <br> https://github.com/Sakura-shem/JLU-OpenAuto <br> 计算机科学与技术学院研究生课程复习资料 <br> https://github.com/jiafeng5513/DocsForReview <br> 个人课程资料整理 <br> https://github.com/LiJiabo/JLU-Courses <br> 软件学院全部课程资料分享 <br> https://github.com/JLU-NightsWatch/JLU-Courses <br> 数据库应用db2课程的复习资料 <br> https://github.com/Xing-hui/db2 |
 | 58 | 杭州电子科技大学 |   | 在杭电的知识与经验 <br> https://github.com/FengGuanxi/HDU-Experience <br> 期末考试卷 杭电 资料分享 <br> https://github.com/HDU-Course/HDU-FinalExamPaper |
 | 59 | 陕西师范大学 | 世界一流学科<br>211 | "可视化程序设计"课程的实验报告与代码 <br> https://github.com/snnucs/snnu-csharp-course |
-| 60 | 西安电子科技大学 | 世界一流学科<br>211 | 计算机科学与技术面向对象程序设计（OOP）课件/大作业/复习资料 <br> https://github.com/larry6799/XDU_OOP <br> 通信工程学院教改班 大学物理（全英授课） 笔记 PPT 作业及作业答案 <br> https://github.com/XiaooooooBawang/XDU_university_physics_note |
+| 60 | 西安电子科技大学 | 世界一流学科<br>211 | 计算机专业经验分享🍭 <br> https://github.com/baolintian/XDU_CS_Learning <br> https://xdu-cs-learning.readthedocs.io/en/latest/ <br> 计算机科学与技术面向对象程序设计（OOP）课件/大作业/复习资料 <br> https://github.com/larry6799/XDU_OOP <br> 通信工程学院教改班 大学物理（全英授课） 笔记 PPT 作业及作业答案 <br> https://github.com/XiaooooooBawang/XDU_university_physics_note |
 | 61 | 山东理工大学 |   | 应用经济学硕士《金融计量学》授课备课资料 <br> https://github.com/YuGuocai397/Financial-Time-Series |
 | 62 | 湖南大学 | 世界一流大学B类<br>985、211 | 电子科学与技术专业相关资料 <br> https://github.com/gunshi3?tab=repositories <br> https://github.com/955xiaoSu/HNU-cc <br> 考研资料 <br> https://github.com/ZSCDumin/HunanUniversity |
 | 63 | 上海科技大学 |  | 2021春季学期CS100课程的作业和其他的一些资料 <br> https://github.com/arnoliudaxia/CS100Homework |
@@ -144,4 +144,4 @@
 ## 更多内容，请关注<a href="https://studyhard.eu.org/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
 Made with 💖 by <a href="https://ccus.cf" target="_blank" rel="noopener">NWUzmed</a>, 
-<p align="right">Last updated: 2023.07.08</p>
+<p align="right">Last updated: 2023.07.20</p>
