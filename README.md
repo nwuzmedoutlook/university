@@ -73,7 +73,7 @@
 | 64 | 天津中德应用技术大学 |  | 软件与通信学院课程资料、实验实训、项目文件等 <br> https://github.com/TJSGTU-RJYTX |
 | 65 | 北京交通大学 | 世界一流学科<br>211 | 交通运输规划与管理硕士课程相关学习、复习资料 <br> https://github.com/lichuanqi/BJTU_master_course |
 | 66 | 合肥工业大学 | 世界一流学科<br>211 | 物联网工程专业的课程有关资料，含课件、实验报告、课设报告等 <br> https://github.com/25th-engineer/DSiS_KCXG <br> https://github.com/25th-engineer/DSS_KCXG <br> 宣城校区2019年-2020年第一学期，大三上学期课程有关资料 <br> https://github.com/Atangsong/DSS_KCXG |
-| 67 | 北京工业大学 | 世界一流学科<br>211 | 课程资源共享计划 <br> https://open-bjut.github.io/BJUT-Helper/ <br> https://github.com/Open-BJUT/BJUT-Helper <br> 软件工程专硕，研究生一年级上半年，课程资料汇总 <br> https://github.com/LambChuckEye/2021_winter |
+| 67 | 北京工业大学 | 世界一流学科<br>211 | 课程资源共享计划 <br> https://github.com/Open-BJUT/BJUT-Helper <br> 软件工程专硕，研究生一年级上半年，课程资料汇总 <br> https://github.com/LambChuckEye/2021_winter |
 | 68 | 南开大学 | 世界一流大学A类<br>985、211 | 本科生操作系统课程资料及提问仓库 <br> https://github.com/NKU-EmbeddedSystem/NKU-Operating-System <br> 课程资料民间整理 <br> https://github.com/ljk5403/libnku <br> https://blog.lockon.ml/libnku/ <br> cs专业课程信息及学生评价 <br> http://nkucs.icu/ |
 | 69 | 华侨大学 |   | 信息学院自动化专业 大一到大四 所有课程资料 <br> https://github.com/sinary-sys/Hqu_Automation |
 | 70 | 东南大学成贤学院 |   | 电子与计算机工程学院课程资料 <br> https://github.com/Z-W-Y/SeuCxxyCourseShare |
@@ -144,4 +144,4 @@
 ## 更多内容，请关注<a href="https://studyhard.eu.org/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
 Made with 💖 by <a href="https://ccus.cf" target="_blank" rel="noopener">NWUzmed</a>, 
-<p align="right">Last updated: 2023.07.20</p>
+<p align="right">Last updated: 2023.12.06</p>
