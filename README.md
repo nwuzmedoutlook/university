@@ -1,4 +1,4 @@
-# 📚各大高校课程资源汇总，在Github上大学&emsp;&emsp;&emsp;&emsp;<a href="https://qq-group.cf" target="_blank" style="color:#1d953f" >💡加入组织</a>
+# 📚各大高校课程资源汇总，在Github上大学&emsp;&emsp;&emsp;&emsp;<a href="https://co2co2.eu.org" target="_blank" style="color:#1d953f" >💡加入组织</a>
 
 ## 😎欢迎大家<a href="http://nwu-zmed.mikecrm.com/ByZJon8" target="_blank" style="color:#1d953f" >补充分享更多高校的课程资源链接</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/university/edit/main/README.md" target="_blank">🔨Pull Requests</a>
 #### 😆取之有度，用之有道；知识共享，文化互鉴；帮助他人，提升自己。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/university" target="_blank" style="color:#1d953f front-size:60px" >⭐Give me a star!</a>
@@ -143,5 +143,5 @@
 
 ## 更多内容，请关注<a href="https://studyhard.eu.org/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
-Made with 💖 by <a href="https://ccus.cf" target="_blank" rel="noopener">NWUzmed</a>, 
+Made with 💖 by <a href="https://ccus.eu.org" target="_blank" rel="noopener">NWUzmed</a>, 
 <p align="right">Last updated: 2023.12.06</p>
